@@ -1,8 +1,8 @@
   class BppLint < Formula
     desc "Linter for BPP (Bayesian Phylogenetics & Phylogeography) control files"
     homepage "https://github.com/bpp/bpp-lint"
-    url "https://github.com/bpp/bpp-lint/archive/refs/tags/v0.2.0.tar.gz"
-    sha256 "4ab73e01e1ebae9d1d9b27b393b8330c04e956ac836f7de012b503b0a907e421"
+    url "https://github.com/bpp/bpp-lint/archive/refs/tags/v0.2.1.tar.gz"
+    sha256 "139a2212c94726a1254eef69b0f93668e9765f9d19dd9053fe45dcaf4ebc650a"
     license "AGPL-3.0-or-later"
     head "https://github.com/bpp/bpp-lint.git", branch: "main"
 
