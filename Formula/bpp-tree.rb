@@ -6,8 +6,8 @@
 class BppTree < Formula
   desc "Compile join formulas into BPP species trees (MSC / MSC-M / MSC-I)"
   homepage "https://github.com/bpp/bpp-trees"
-  url "https://github.com/bpp/bpp-trees/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "741b22ab629ff518678dd087f75389615ebb4efcd3c1dac4b606cd036d411204"
+  url "https://github.com/bpp/bpp-trees/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "da9be277bd9c5c8b555a761bd7c5770fba119fa82bdd89ec04dfd23379e20613"
   license "AGPL-3.0-or-later"
   head "https://github.com/bpp/bpp-trees.git", branch: "main"
 
