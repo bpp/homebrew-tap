@@ -6,8 +6,8 @@
 class BppSeqs < Formula
   desc "Convert sequence/variant data (BAM/CRAM, gVCF, FASTA, PHYLIP, NEXUS) to BPP format"
   homepage "https://github.com/bpp/bpp-seqs"
-  url "https://github.com/bpp/bpp-seqs/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "dd83cd1859cfbfaffd186383f6596739bf2b0e55ab75f332bd28d23d0023e3cb"
+  url "https://github.com/bpp/bpp-seqs/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "b0351f6b99dc4d68f5d2c6827ae4c7c4188db958ece0cdace475effcdd6ea870"
   license "AGPL-3.0-or-later"
   head "https://github.com/bpp/bpp-seqs.git", branch: "main"
 
